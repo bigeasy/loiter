@@ -1,6 +1,6 @@
 {
     "name":         "loiter",
-    "version":      "9.9.9",
+    "version":      "0.0.0",
     "description":  "Prevent a process from exiting.",
     "author":       "Alan Gutierrez <alan@prettyrobots.com>",
     "homepage":     "https://github.com/bigeasy/loiter",
