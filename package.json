@@ -17,7 +17,7 @@
     },
     "devDependencies":
     {
-                    "cadence": "1.0.x",
+                    "cadence": "1.x",
                     "proof": "1.0.x"
     },
     "main":         "loiter.js",
